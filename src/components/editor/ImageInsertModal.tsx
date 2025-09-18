@@ -84,7 +84,7 @@ export const ImageInsertModal: React.FC<ImageInsertModalProps> = ({ onInsert, on
                   How to upload an image
                 </h4>
                 <ol className="space-y-1 text-xs">
-                  <li>1. Visit <a href="https://postimages.org" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline">postimages.org</a> or <a href="https://imgur.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline">imgur.com</a></li>
+                  <li>1. Visit <a href="https://postimages.org" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline">postimages.org</a> or <a href="https://imgur.com" target=\"_blank" rel="noopener noreferrer\" className="text-blue-600 underline">imgur.com</a></li>
                   <li>2. Upload your image</li>
                   <li>3. Copy the "direct link" to the clipboard</li>
                   <li>4. Paste the direct link into the URL field below</li>
